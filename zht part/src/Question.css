@@ -1,0 +1,28 @@
+span {
+        font-size: 20px;
+    }
+input[type="radio"] {
+        width: 18px;
+        height: 18px;
+        vertical-align: middle;
+        margin: 0;
+    }
+p {
+        margin: 20px 60px;
+        text-align: left;
+        font-size: 25px;
+    }
+.question {
+            color: white;
+            /* background-color: rgba(100, 100, 100, 0.4); */
+            text-align: center;
+            margin: 0 auto;
+            width: 840px;
+            border-radius: 25px;
+        }
+.answer {
+            display: flex;
+            justify-content: space-between;
+            text-align: center;
+            margin: 10px 68px;
+        }

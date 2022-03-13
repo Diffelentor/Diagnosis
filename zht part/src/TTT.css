@@ -1,0 +1,31 @@
+.infomation {
+      color: white;
+      background-color: rgba(100, 100, 100, 0.4);
+      text-align: center;
+      margin: 0 auto 0 auto;
+      width: 840px;
+      border-radius: 25px;
+    }
+.description {
+            font-size: 20px;
+            margin: 0 60px;
+        }
+img {
+      width: 600px;
+      text-align: center;
+      margin: 40px auto 0 auto;
+    }
+
+h1 {
+    line-height: 3em;
+    margin: 0 auto;
+    font-family: Huaguang;
+    font-weight: 500;
+    font-size: 43px;
+}
+
+p {
+    margin: 20px 60px;
+    text-align: left;
+    font-size: 25px;
+}
