@@ -1,12 +1,4 @@
-
-.formlate{
-    color: white;
-    background-color: rgba(100, 100, 100, 0.4);
-    margin: 0 auto;
-    width: 840px;
-    border-radius: 25px;
-}
-input {
+button {
     background-color: rgba(68, 114, 196, 0.3);
     font-size: 50px;
     color: white;

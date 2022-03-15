@@ -10,7 +10,7 @@ class Question extends React.Component {
     render() {
         return (
             <div class="question">
-                <p>{this.props.question}</p>
+                <p><font family="sans-serif">{this.props.id}</font>{this.props.question}</p>
                 <div class="answer">
                     <label for="g1_r1"><input type="radio" id="r1" name={this.props.name} value="0" onChange={this.props.handleChange} /><span> 没有</span></label>
                     <label for="g1_r2"><input type="radio" id="r2" name={this.props.name} value="1" onChange={this.props.handleChange} /><span> 很轻</span></label>

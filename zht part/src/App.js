@@ -1,17 +1,17 @@
 import React from 'react';
 import Survey from './Survey';
-import TTT from './TTT';
+import Button from './Button';
 
 // import logo from './logo.svg';
 // import './App.css';
 
 function App() {
   return (
-    <Survey />
-    // <div>
-    //   <TTT />
-    //   <Survey />
-    // </div>
+
+    <div>
+      <Survey />
+      {/* <Button /> */}
+    </div>
   )
 }
 
